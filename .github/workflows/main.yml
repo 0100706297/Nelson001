@@ -34,4 +34,4 @@ jobs:
         curl -s http://127.0.0.1:4040/api/tunnels
 
     - name: Keep Alive
-      run: sleep 600000h
+      run: sleep 6h
